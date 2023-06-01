@@ -1,2 +1,2 @@
-# processamento-de-sinais-financeiros
-Repositorio para estudo de Processamento de Sinais Financeiros
+# Portfolio Financeiro
+Repositorio para estudo de processamento de sinais financeiros 
