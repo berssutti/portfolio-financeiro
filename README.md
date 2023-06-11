@@ -1,2 +1,2 @@
 # Portfolio Financeiro
-Repositorio para estudo de processamento de sinais financeiros 
+Esse projeto visa aplicar métodos quantitativos de análise para criar um portfólio de ativos financeiros listados na B3 
